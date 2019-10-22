@@ -20,6 +20,7 @@ gem 'bootstrap-sass', '~> 3.4.1'
 gem 'devise', '~> 4.2'
 
 gem 'jquery-rails'
+gem 'hirb'
 
 
 
