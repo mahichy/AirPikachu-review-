@@ -22,6 +22,8 @@ gem 'devise', '~> 4.2'
 gem 'jquery-rails'
 gem 'hirb'
 
+gem 'toastr-rails','~>1.0'
+
 
 
 
