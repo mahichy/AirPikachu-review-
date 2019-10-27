@@ -1,0 +1,125 @@
+[33mcommit 78414354fce0b446443162a1db2d129ebf1b3024[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: mahi <mohiddinoshim@yahoo.com>
+Date:   Thu Oct 24 00:28:58 2019 +0600
+
+    Sending Transational Email with Gmail
+    
+    T_03_Class_04
+
+[33mcommit b0aada2034e40a0683e351b4bf5d5fe5871ea45b[m
+Author: mahi <mohiddinoshim@yahoo.com>
+Date:   Wed Oct 23 13:39:36 2019 +0600
+
+    Notification
+    
+    T_3_C_3
+
+[33mcommit 379a191a20cacb86fae0bf87b7722d2cb698c970[m
+Author: mahi <mohiddinoshim@yahoo.com>
+Date:   Tue Oct 22 23:28:30 2019 +0600
+
+    avater Uptodate
+
+[33mcommit 66ae20a243170a8a262653d64f039806e750c3b7[m
+Author: mahi <mohiddinoshim@yahoo.com>
+Date:   Tue Oct 22 22:50:19 2019 +0600
+
+    Avatar(with problem)
+
+[33mcommit 24b0836f2fef0c5927c6073f7c5e755b03293672[m
+Author: mahi <mohiddinoshim@yahoo.com>
+Date:   Tue Oct 22 21:08:54 2019 +0600
+
+    Gravatar
+    
+    T3_C2
+
+[33mcommit 9beb6e43cd1648a7d5c551219116849ea914a68d[m
+Author: mahi <mohiddinoshim@yahoo.com>
+Date:   Mon Oct 21 21:38:55 2019 +0600
+
+    Update authentication views
+    
+    Task_02_Class_05
+
+[33mcommit 851bbb2817103202eb663228e58958e83ce84caa[m
+Author: mahi <mohiddinoshim@yahoo.com>
+Date:   Mon Oct 21 18:04:46 2019 +0600
+
+    Authentication with full name
+    
+    Task_02_Class_04
+
+[33mcommit e02c01a32a24a97088fbb01296e8324b28a001d0[m
+Author: mahi <mohiddinoshim@yahoo.com>
+Date:   Sun Oct 20 22:45:08 2019 +0600
+
+    Building navbar with partial view
+    
+    Task_02_Class_03
+
+[33mcommit a870de725174e726ab4934955bdcfbc6713984bf[m
+Author: mahi <mohiddinoshim@yahoo.com>
+Date:   Sun Oct 20 20:15:05 2019 +0600
+
+    Dropdown menu (not working)
+
+[33mcommit c534747739f9a7a21afeecf4d42809398b981a34[m
+Author: mahi <mohiddinoshim@yahoo.com>
+Date:   Sun Oct 20 19:42:14 2019 +0600
+
+    render ok
+
+[33mcommit faab1811553f17d27a17348332f9138f42d80e2d[m
+Author: mahi <mohiddinoshim@yahoo.com>
+Date:   Sun Oct 20 15:56:32 2019 +0600
+
+    Update application.html.erb
+
+[33mcommit ddc59634ea97494e19369d0437b96ed8c47de61d[m
+Author: mahi <mohiddinoshim@yahoo.com>
+Date:   Sun Oct 20 15:46:40 2019 +0600
+
+    render(problem)
+
+[33mcommit 0ebbfe130140636f66023ff5ee6f54cf93d6ca7e[m
+Author: mahi <mohiddinoshim@yahoo.com>
+Date:   Thu Oct 10 15:13:33 2019 +0600
+
+    Create basic authentication
+
+[33mcommit ad97ca0cbab1997575d41fc56e369fd770f7b896[m
+Author: mahi <mohiddinoshim@yahoo.com>
+Date:   Thu Oct 10 12:09:58 2019 +0600
+
+    after rails g devise:views
+
+[33mcommit 86a27f39f73ffde9e3d4e19105301b5e6fecd02e[m
+Author: mahi <mohiddinoshim@yahoo.com>
+Date:   Thu Oct 10 12:08:04 2019 +0600
+
+    After Change database.yml file
+
+[33mcommit c2fd7e8125a783a1c33644ffcaa8f6fdea97ca7a[m
+Author: mahi <mohiddinoshim@yahoo.com>
+Date:   Thu Oct 10 11:46:42 2019 +0600
+
+    After g device User
+
+[33mcommit 3e122066c622394ab40072137816b227004623f8[m
+Author: mahi <mohiddinoshim@yahoo.com>
+Date:   Thu Oct 10 11:44:37 2019 +0600
+
+    after install devise
+
+[33mcommit e3e96163443d0bbe770665099a3e3c07a1f3c8ca[m
+Author: mahi <mohiddinoshim@yahoo.com>
+Date:   Thu Oct 10 10:57:35 2019 +0600
+
+    Add bootstrep
+
+[33mcommit 8359d3617cb16e0dd6b919700132ba268335f72f[m
+Author: mahi <mohiddinoshim@yahoo.com>
+Date:   Thu Oct 10 10:06:51 2019 +0600
+
+    Initial commit
