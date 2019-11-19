@@ -53,6 +53,7 @@ class RoomsController < ApplicationController
   def update
 
     new_params = room_params
+    new_params = room_params.merge(active: true) if is_ready_room
 
 
 
