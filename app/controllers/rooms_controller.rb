@@ -25,7 +25,6 @@ class RoomsController < ApplicationController
   end
 
   def show
-    
   end
 
   def listing
