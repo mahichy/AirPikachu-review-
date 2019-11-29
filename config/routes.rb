@@ -18,5 +18,6 @@ Rails.application.routes.draw do
 		end
 
 		resources :photos, only: [:create, :destroy]
+		resources :reservations, only: [:create]
 	end
 end
