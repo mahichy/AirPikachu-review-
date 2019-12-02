@@ -55,10 +55,10 @@
 				dataType: 'json',
 				success: function(data) {
 
-					$.each(data, function(arrId, arrValue) {
-						 for (var d = new Date(arrValue.start_date); d <= new Date(arrValue.end_date); d.setDate(d.getDate() + 1 )) {
-						 	console.log(d);
-						 }
+					$.each(data, function(arrId, arrValue){
+						 
+						 	console.log(arrValue);
+						 
 					});
 				}
 			});
