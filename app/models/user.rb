@@ -10,6 +10,7 @@ class User < ApplicationRecord
 
   has_many :rooms
   has_many :reservations
+  
 
 
   def self.from_omniauth(auth)
